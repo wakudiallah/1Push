@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
                 //width: 150,
                 //height: 50,
                 child: Text(
-                    "Saya Sedang latihan flutterxxx",
+                    "Saya Sedang latihan flutter",
                     //maxLines: 2,
                   //overflow: TextOverflow.ellipsis,
                   textAlign: TextAlign.justify,
